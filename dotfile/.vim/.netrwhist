@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/mnt/c/Users/Alexander.Daily/p/g/bin/lake/src'
+let g:netrw_dirhist_8='/mnt/c/Users/Alexander.Daily/w/r/g+/endcp_api/src/Rhenus.SN.CJM.EndCustomerPortal/Rhenus.ENDCP.Infrastructure'
+let g:netrw_dirhist_7='/mnt/c/Users/Alexander.Daily/w/r/g/_interface/dev-schnittstellenservice/SchnittstellenService/localConfig'
+let g:netrw_dirhist_6='/mnt/c/Users/Alexander.Daily/w/r/g/_interface/dev-schnittstellenservice/SchnittStellenService/bin/Debug/Application'
+let g:netrw_dirhist_5='/mnt/c/Users/Alexander.Daily/p/g/todo_finances/Books'
+let g:netrw_dirhist_4='/mnt/c/Users/Alexander.Daily/p/g/pager/src/pager/components'
+let g:netrw_dirhist_3='/mnt/c/Users/Alexander.Daily/p/g/mat/src'
+let g:netrw_dirhist_2='/home/adaily/.vim'
+let g:netrw_dirhist_1='/mnt/c/Users/Alexander.Daily/p/g/mat/src/csharp/matrixLib'
