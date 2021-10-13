@@ -1,0 +1,4 @@
+yarn tsc > out.txt
+python3 `dirname "$0"`/out_sub.py
+rm out.txt
+

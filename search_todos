@@ -1,0 +1,1 @@
+ ag TODO --ignore-dir={'node_modules/','dist/','build/','coverage/','server/scripts/'} apps

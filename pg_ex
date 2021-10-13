@@ -1,0 +1,4 @@
+echo $1 > temp.sql
+export PGPASSWORD="secret"
+psql postgres -h 127.0.0.1 -d calculations -a -f temp.sql
+rm temp.sql
