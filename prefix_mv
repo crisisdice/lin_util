@@ -1,0 +1,8 @@
+#example usage: rename all files in a nest module to 
+
+prefix=$1
+
+for i in *.ts; do
+  foo=$2${i#"$prefix"}
+  mv "$i" $foo
+done
